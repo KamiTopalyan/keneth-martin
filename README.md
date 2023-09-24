@@ -1,16 +1,16 @@
 ### App Showcase
 
-<img src="./AppShowcase.gif" width="300" >
+<img src="./github/AppShowcase.gif" width="300" >
 
 
 ### Before / After
 | Before  | After |
 | ------------- | ------------- |
-| <img src="./StartingPoint.png" width="250" >  | <img src="./EndResult.png" width="250" >  |
+| <img src="./github/StartingPoint.png" width="250" >  | <img src="./github/EndResult.png" width="250" >  |
 
 ### Target Image
 
-<img src="./stupidArt.png" width="300" >
+<img src="./github/stupidArt.png" width="300" >
 
 ### The process
 
